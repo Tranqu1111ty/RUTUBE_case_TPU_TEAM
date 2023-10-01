@@ -1,12 +1,4 @@
-<p align="center">
-      <img src="Project Logo Url" width="726">
-</p>
-
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
-</p>
+# RUTUBE_case_TPU_TEAM
 
 ## About
 
