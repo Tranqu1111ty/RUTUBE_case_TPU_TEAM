@@ -15,7 +15,8 @@
 ## Developers
 
 - [Dashiev Nanzat](https://github.com/nanzat)
-
+- [Druzhinin Nikita](https://github.com/Tranqu1111ty)
+  
 ## License
 
 Project video2description is distributed under the MIT license
